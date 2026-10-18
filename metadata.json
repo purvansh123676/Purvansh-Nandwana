@@ -1,0 +1,6 @@
+{
+  "name": "Ant Escape: Haute Couture",
+  "description": "Navigate giant rooms in a human house, dodge stomping slippers and robotic vacuums, and dress your dapper ant in custom hats, capes, and tiny boots.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
